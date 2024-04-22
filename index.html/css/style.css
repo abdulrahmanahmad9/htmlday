@@ -1,0 +1,63 @@
+
+p {
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+body{
+
+    font-weight: bold;
+    background-color: antiquewhite;
+    text-align: center;
+}
+.centered-list {
+    display: flex;
+    justify-content: center;
+  }
+img{
+    width: 200px;
+}
+
+ul li a {
+    color: rgb(5, 140, 140);
+    text-decoration: none;
+  
+}
+
+hr {
+    color :aliceblue;
+    
+}
+/* Style all font awesome icons */
+.fa {
+    padding: 50px;
+    font-size: 50px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.5;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
